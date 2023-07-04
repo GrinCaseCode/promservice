@@ -353,6 +353,9 @@
 	.logo-descr {
 		max-width: 255px;
 	}
+	.footer__nav li {
+		margin-bottom: 10px;
+	}
 }
 
 /* Small Devices, Tablets */
