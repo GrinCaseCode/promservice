@@ -669,8 +669,11 @@
 	}
 	.tabs a {
 		font-size: 11px;
-		padding: 0 3px;
+		padding: 0 5px;
 		margin: 0 2px;
+	}
+	.tabs li {
+		flex: 1;
 	}
 	.item-usage .title-middle {
 		margin-bottom: 15px;
