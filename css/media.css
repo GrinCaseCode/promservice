@@ -167,6 +167,17 @@
 	.footer__title, .footer__nav {
 		font-size: 18px;
 	}
+	.tabs a {
+		padding: 0 20px;
+		margin: 0 9px;
+	}
+	.item-catalog__image {
+		height: 175px;
+	}
+	.item-usage {
+		height: 270px;
+		padding: 25px 23px;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -359,6 +370,20 @@
 	.footer__nav li {
 		margin-bottom: 10px;
 	}
+	.tabs a {
+		padding: 0 15px;
+		margin: 0 5px;
+	}
+	.tab-container {
+		padding-top: 25px;
+	}
+	.usage {
+		padding-top: 25px;
+		padding-bottom: 30px;
+	}
+	.billbord_profnastil .descr-billbord {
+		font-size: 20px;
+	}
 }
 
 /* Small Devices, Tablets */
@@ -483,7 +508,18 @@
 		font-size: 16px;
 		text-align: right;
 	}
-
+	.billbord_profnastil .descr-billbord {
+		font-size: 17px;
+	}
+	.tabs a {
+		font-size: 12px;
+	}
+	.row_usage > div {
+		margin-bottom: 20px;
+	}
+	.item-usage {
+		height: 250px;
+	}
 }
 
 /* Extra Small Devices, Phones */
@@ -630,6 +666,17 @@
 	}
 	.experience__value span {
 		font-size: 21px;
+	}
+	.tabs a {
+		font-size: 11px;
+		padding: 0 3px;
+		margin: 0 2px;
+	}
+	.item-usage .title-middle {
+		margin-bottom: 15px;
+	}
+	.item-usage {
+		height: 215px;
 	}
 }
 
